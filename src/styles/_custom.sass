@@ -1,0 +1,72 @@
+.bloque-texto-a.color-primario
+  background-color: #EEEEF2
+
+.bloque-texto-a.color-primario:before
+  background-color: #A6DAD7
+
+
+////////////LLAMADO A LA ACCION CUSTOM//////////////
+.container-llamado
+  display: block
+  background: linear-gradient(180deg,#f5f5f5,#A7B3CF)
+  position: relative
+  margin-left: 30px
+  padding: 20px
+  padding-left: 50px
+  white-space: normal
+  text-align: left
+  border-radius: 10px
+
+.img-llamado
+  width: 220px
+  position: absolute
+  left: 0
+  top: 50%
+  transform: translateX(-50%) translateY(0%)
+  top: 0
+
+.texto-llamado
+  padding-left: 5rem
+  padding-right: 2rem
+  padding-top: 1rem
+  padding-bottom: 0
+
+.boton.color-secundario, .color-secundario.boton--sm
+  background-color: #1D272B
+////////////ENDDD----LLAMADO A LA ACCION CUSTOM//////////////
+
+
+.fondo1
+  background: url('../assets/curso/tema1/fondo1.png')
+  background-position: bottom
+  background-size: contain
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+
+
+
+@media screen and ( max-width: 992px)
+  .container-llamado
+    
+    margin-left: 0
+    padding: 20px
+    padding-left: 20px
+
+  .img-llamado
+    width: 150px
+    position: relative
+    left: 50%
+    top: 0%
+    transform: translateX(-50%) translateY(0%)
+    margin-bottom: 1rem
+    
+  .texto-llamado
+    padding-left: 0rem
+    padding-right: 0rem
+    padding-top: 0rem
+    padding-bottom: 0rem
+
+  //fondos con margen negativo
+  .fondo1
+    margin-inline: -1.4rem

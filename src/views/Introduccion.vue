@@ -13,7 +13,7 @@
     
     
     .bloque-texto-a.color-primario.p-4.mb-5 
-      .row.m-0.align-items-center.justify-content-between
+      .row.m-0.align-items-center.justify-content-center
         .col-7.col-lg-3.mb-4.mb-lg-0
           figure
             img.mx-auto(src='@/assets/curso/img1.svg', alt='imagen ambiental', style='width:276px;')

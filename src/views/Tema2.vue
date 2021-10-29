@@ -18,7 +18,7 @@
             p.mb-4
               b El duelo y los sentimientos 
               b-none que se asocian a este son un factor que se deben de tener en cuenta en el momento de la 
-              b(style="color: #008F85;")  prestación del servicio del funerario,
+              b(style="color: #008F85;")  prestación del servicio del funerario, 
               b-none aunque 
               b  los trabajadores funerarios no sean los especialistas en el manejo del duelo si se debe conocer sus manifestaciones básicas para brindar y otorgar la ayuda necesaria al cliente. 
               b-none Se preguntará ¿qué es el duelo?
@@ -493,14 +493,14 @@
             .col-md-8
               p.mb-4
                 b Creencia: 
-                b-none La muerte se considera un proceso natural de la vida dentro del plan divino. Quienes vivieron una vida haciendo el bien serán resucitados. El fallecido será juzgado por sus acciones y méritos no por su riqueza material.
+                b-none la muerte se considera un proceso natural de la vida dentro del plan divino. Quienes vivieron una vida haciendo el bien serán resucitados. El fallecido será juzgado por sus acciones y méritos no por su riqueza material.
               p.mb-4 
                 b Ritual: 
                 b-none  al momento de la muerte de una persona, se le deben cerrar los ojos y cubrir su cuerpo con sábanas, ponerlo en el piso rodeado de velas encendidas.
-                ul.lista-ul.ms-lg-4
-                  li 
-                    i.fas.fa-play(style='color: #008F85')
-                    p.mb-0 Posteriormente se debe de lavar el cuerpo en señal de purificación, si es hombre deberá ser bañado por hombre y los mismo para el caso de las mujeres. No posicionar el cuerpo boca abajo, luego se vestirá con una túnica de lino llamada Takhrikhim.
+              ul.lista-ul.ms-lg-4
+                li 
+                  i.fas.fa-play(style='color: #008F85')
+                  p.mb-0 Posteriormente se debe de lavar el cuerpo en señal de purificación, si es hombre deberá ser bañado por hombre y los mismo para el caso de las mujeres. No posicionar el cuerpo boca abajo, luego se vestirá con una túnica de lino llamada Takhrikhim.
             
           .row.justify-content-center
             p Finalizado este proceso el cuerpo se podrá ubicar en un cajón o ataúd de madera llamado Aron, se debe enterrar el cuerpo preferiblemente antes de las primeras 24 horas transcurridas luego de la muerte. No se entierra el cuerpo con joyas ni objetos. Y no se permite la remoción de ningún órgano. 

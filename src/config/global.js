@@ -97,142 +97,176 @@ export default {
   },
   referencias: [
     {
+      referencia: 'Bellver, E. (2020). ',
+      link: 'https://depsicologia.com/la-escucha-activa/',
+    },
+    {
+      referencia: 'Comercio, S. d. (s.f.). ',
+      link: 'https://www.sic.gov.co/que-es-la-proteccion-al-consumidor',
+    },
+    {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Conducta en los velorios - Julio Cortázar - Ciudad Seva - Luis López Nieves. (s. f.). ',
+      link: 'https://ciudadseva.com/texto/conducta-en-los-velorios/',
+    },
+    {
+      referencia:
+        'Corte Suprema de Justicia de Colombia (2013). Cadena de Custodia-Concepto, finalidad conformación y forma de realizar la cadena de custodia. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/spa/CONCEPTO.pdf',
+    },
+    {
+      referencia: 'Definicion, C. (3 de febrero de 2021). ',
+      link: 'https://conceptodefinicion.de/luto/',
+    },
+    {
+      referencia: 'Doctors, T. (s.f.). ',
+      link: 'https://www.topdoctors.es/diccionario-medico/asertividad',
+    },
+    {
+      referencia: 'Equipo editorial, E. (2021). Ritual. ',
+      link: 'https://concepto.de/ritual/',
+    },
+    {
+      referencia: 'Equipo editorial, E. (2021). ',
+      link: 'https://concepto.de/protocolo/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'GCFAprendeLibre. (2019). Qué comportamiento debo tener en el trabajo | Cómo mejorar el ambiente laboral. ',
+      link: 'https://www.youtube.com/watch?v=j3PQ0xJ6V4g&t=53s',
+    },
+    {
+      referencia:
+        'Guillem, V., Romero, R., & Ramírez, E. (s. f.). Manifestaciones del duelo. Recuperado 2021, de ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://seom.org/seomcms/images/stories/recursos/sociosyprofs/documentacion/manuales/duelo/duelo08.pdf',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Fiscalía General de la Nación. (2018). Manual del Sistema de Cadena de Custodia. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.fiscalia.gov.co/colombia/wp-content/uploads/MANUAL-DEL-SISTEMA-DE-CADENA-DE-CUSTODIA.pdf',
+    },
+    {
+      referencia: 'Imaginario, A. (s.f.). Obtenido de Significados: ',
+      link: 'https://www.significados.com/cultura/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'KÜBLER, E., & Kessler, D. (2015). Sobre el duelo y el dolor. Recuperado 2021, de  ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.planetadelibros.com/libros_contenido_extra/32/31277_Sobre_el_duelo_y_el_dolor.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Ley 906 de 2004 [Congreso de Colombia].  "Por la cual se expide el Código de Procedimiento Penal. (Corregida de conformidad con el Decreto 2770 de 2004). ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_906_2004.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Manual del sistema de cadena de custodia. (2018). Fiscalia General de la Nacion. Obtenido de ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.fiscalia.gov.co/colombia/wp-content/uploads/MANUAL-DEL-SISTEMA-DE-CADENA-DE-CUSTODIA.pdf',
+    },
+    {
+      referencia: 'Marino, P. (s.f.). Art Social. Obtenido de  ',
+      link: 'https://www.artsocial.cat/articulo/la-comunicacion-empatica/',
+    },
+    {
+      referencia: 'Ministerio de Comercio, I. y. (2011). Obtenido de ',
+      link:
+        'https://www.mincit.gov.co/minindustria/estrategia-transversal/regulacion/proteccion-del-consumidor',
+    },
+    {
+      referencia: 'Pastor, P. (s.f.). Fundacion MCL. Obtenido de ',
+      link: 'https://www.fundacionmlc.org/trastornos-fisicos-duelo/',
+    },
+    {
+      referencia: 'Patricio, A. D. (2017). Scielo. Obtenido de ',
+      link:
+        'https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352017000100008',
+    },
+    {
+      referencia:
+        'Posada, S. R. (2005). El manejo del duelo. Bogotá, Colombia.: Grupo editorial Norma. ',
+    },
+    {
+      referencia:
+        'Ritos y cultos funerarios relativos a las necesidades mortuorias, Capítulo 7. Gestión de la actividad de Tanatopraxia.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45224?page=279',
+    },
+    {
+      referencia: 'Significados. (s.f.). Obtenido de ',
+      link: 'https://www.significados.com/ritual/',
+    },
+    {
+      referencia: 'Tres, M. p. (s.f.). Obtenido de ',
+      link:
+        'https://misprimerostres.org/categoria/cuidados-madre/empatia-secreto-comunicacion-asertiva/',
+    },
+    {
+      referencia:
+        'Worden, W. (1997). El tratamiento del duelo: asesoramiento psicológico y terapia. Paidos.  ',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Duelo',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el proceso psicológico que se afronta luego de sufrir una pérdida.',
+    },
+
+    {
+      termino: 'Cadena de custodia',
+      significado:
+        'Se entiende como el conjunto de procedimientos que aseguran y demuestran la autenticidad de los elementos materiales probatorios y evidencia física dentro de un proceso judicial.',
+    },
+
+    {
+      termino: 'Protocolo',
+      significado:
+        'Atiende al conjunto de reglas y normas de cortesía que rigen los actos sociales, las cuales han sido establecidas por costumbres.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Rito',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
-    },
-    {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Son costumbres o actos que se repiten de forma invariable en las ceremonias religiosas.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'GCFAprendeLibre. (2019). Qué comportamiento debo tener en el trabajo | Cómo mejorar el ambiente laboral [Archivo de vídeo]. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=j3PQ0xJ6V4g&t=53s',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Conducta en los velorios - Julio Cortázar - Ciudad Seva - Luis López Nieves. (s. f.). Recuperado 28 de septiembre de 2021, de ',
+      tipo: 'Texto digital',
+      link: 'https://ciudadseva.com/texto/conducta-en-los-velorios/',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Manifestaciones del duelo. Instituto Valenciano de Oncología. España',
+      tipo: 'Texto Digital',
+      descarga: '/downloads/duelo08.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto:
+        'Fiscalía General de la Nación. (2018). Manual del Sistema de Cadena de Custodia. ',
+      tipo: 'Texto digital',
+      descarga: '/downloads/MANUAL-DEL-SISTEMA-DE-CADENA-DE-CUSTODIA.pdf',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Ritos y cultos funerarios relativos a las necesidades mortuorias, Capítulo 7. Gestión de la actividad de Tanatopraxia.',
+      tipo: 'Texto digital',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45224?page=279',
     },
   ],
   creditos: {
@@ -248,7 +282,45 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lina María Restrepo Zapata',
+        cargo: 'Experta temática',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo:
+          'Instructora (EPC) - Líder desarrollo curricular servicios personales',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Adriana María Bustamante Cataño',
+        cargo: 'Profesional de diseño y producción curricular',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Maryuri Agudelo Franco',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -256,7 +328,7 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
@@ -264,35 +336,64 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Jesus Antonio Vecino Valero'],
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Andres Ayala Angarita',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

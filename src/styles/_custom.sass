@@ -22,8 +22,8 @@
   position: absolute
   left: 0
   top: 50%
-  transform: translateX(-50%) translateY(0%)
-  top: 0
+  transform: translateX(-50%) translateY(-50%)
+  
 
 .texto-llamado
   padding-left: 5rem
@@ -61,6 +61,13 @@
 .fondo4
   background: url('../assets/curso/tema1/fondo4.png')
   background-position: right center
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+.fondo-gradiente
+  background: url('../assets/curso/tema3/fondo-grad.png')
+  background-position: center
   background-size: auto
   background-repeat: no-repeat
   margin-inline: -3.4rem
@@ -187,7 +194,20 @@ $tarjeta-dimension-height4: 450px
   background-color: #00978E
 
 
+.bg-line1
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema2/line1.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
 
+.bloque-texto-b.color-primario:before 
+  background-color: #D1EBEA
+
+
+td
+  border: solid 2px
 
 @media screen and ( max-width: 992px)
   .container-llamado
@@ -214,5 +234,5 @@ $tarjeta-dimension-height4: 450px
     top: 102%
 
   //fondos con margen negativo
-  .fondo1, .fondo2, .fondo3, .fondo4
+  .fondo1, .fondo2, .fondo3, .fondo4, .fondo-gradiente
     margin-inline: -1.4rem

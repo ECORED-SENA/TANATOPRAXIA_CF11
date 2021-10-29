@@ -401,18 +401,17 @@
             figure
               img.mx-auto(src='@/assets/curso/tema1/img23.svg', alt='icono que acompaña', style="width: 200px")
           .row.justify-content-center
-            .col-sm.col-md-9.mb-4.mb-lg-0
+            .col-sm.col-md.mb-4.mb-lg-0
               .texto-llamado
-                h4.mb-4(style="color: #008F85;") Conducta en los velorios por Julio Cortázar
+                h3.mb-3(style="color: #008F85;") Conducta en los velorios por Julio Cortázar
                 p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede se sugiere la lectura del texto.
-            .col-6.col-sm-auto.col-md-3.align-self-center
+            .col-6.col-sm-auto.align-self-center
               .d-flex.justify-content-center
                 .boton-llamado.mx-auto
                   a.boton.color-secundario.texto-blanco(href="https://ciudadseva.com/texto/conducta-en-los-velorios/" target="_blank")
-                    span Ver texto
+                    span Ver mas
 
-
-
+    
 
 
 

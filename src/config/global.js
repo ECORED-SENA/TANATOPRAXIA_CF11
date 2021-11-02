@@ -160,15 +160,9 @@ export default {
     },
     {
       referencia:
-        'Ley 906 de 2004 [Congreso de Colombia].  "Por la cual se expide el Código de Procedimiento Penal. (Corregida de conformidad con el Decreto 2770 de 2004). ',
+        'Ley 906 de 2004 [Congreso de Colombia].  "Por la cual se expide el Código de Procedimiento Penal. (Corregida de conformidad con el Decreto 2770 de 2004)". ',
       link:
         'https://www.defensoria.gov.co/public/Normograma%202013_html/Normas/Ley_906_2004.pdf',
-    },
-    {
-      referencia:
-        'Manual del sistema de cadena de custodia. (2018). Fiscalia General de la Nacion. Obtenido de ',
-      link:
-        'https://www.fiscalia.gov.co/colombia/wp-content/uploads/MANUAL-DEL-SISTEMA-DE-CADENA-DE-CUSTODIA.pdf',
     },
     {
       referencia: 'Marino, P. (s.f.). Art Social. Obtenido de  ',
@@ -180,7 +174,7 @@ export default {
         'https://www.mincit.gov.co/minindustria/estrategia-transversal/regulacion/proteccion-del-consumidor',
     },
     {
-      referencia: 'Pastor, P. (s.f.). Fundacion MCL. Obtenido de ',
+      referencia: 'Pastor, P. (s.f.). Fundación MCL. Obtenido de ',
       link: 'https://www.fundacionmlc.org/trastornos-fisicos-duelo/',
     },
     {
@@ -194,7 +188,7 @@ export default {
     },
     {
       referencia:
-        'Ritos y cultos funerarios relativos a las necesidades mortuorias, Capítulo 7. Gestión de la actividad de Tanatopraxia.',
+        'Ritos y cultos funerarios relativos a las necesidades mortuorias, Capítulo 7. Gestión de la actividad de Tanatopraxia. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45224?page=279',
     },
@@ -245,14 +239,14 @@ export default {
     },
     {
       texto:
-        'Conducta en los velorios - Julio Cortázar - Ciudad Seva - Luis López Nieves. (s. f.). Recuperado 28 de septiembre de 2021, de ',
+        'Conducta en los velorios - Julio Cortázar - Ciudad Seva - Luis López Nieves. (s. f.). Recuperado 28 de septiembre de 2021. ',
       tipo: 'Texto digital',
       link: 'https://ciudadseva.com/texto/conducta-en-los-velorios/',
     },
     {
       texto:
-        'Manifestaciones del duelo. Instituto Valenciano de Oncología. España',
-      tipo: 'Texto Digital',
+        'Manifestaciones del duelo. Instituto Valenciano de Oncología. España. ',
+      tipo: 'Texto digital',
       descarga: '/downloads/duelo08.pdf',
     },
     {

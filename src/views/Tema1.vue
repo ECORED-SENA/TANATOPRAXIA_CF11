@@ -59,7 +59,7 @@
                 p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
             .col-6.col-sm-auto.align-self-center
               .boton-llamado
-                a.boton.color-secundario.texto-blanco(href="https://www.youtube.com/watch?v=nwIqTTRSjKg&list=RDMM&start_radio=1&rv=RN7mbUBzUJw" target="_blank")
+                a.boton.color-secundario.texto-blanco(href="https://www.youtube.com/watch?v=j3PQ0xJ6V4g&t=53s" target="_blank")
                   span Ver Video
 
 
@@ -170,13 +170,16 @@
                 .bloque-texto-b.color-secundario.p-4
                   .bloque-texto-b__texto
                     i.fas.fa-quote-left(style='font-size: 28px')
-                    h4.mb-0 El protocolo funerario para la atención del cliente del servicio exequial inicia desde el momento del primer contacto con la familia para la atención del servicio hasta terminado el servicio funerario. Durante toda la vida y como un ciclo normal de esta, el fallecimiento de un ser querido, un amigo, familiar o conocido toca a nuestras puertas, por ello se establecen unas normas de comportamiento básico para asistir a los sepelios, porque estos también son un evento social; pero ¿qué es protocolo? La palabra protocolo proviene del latín protocollum, el cual deriva de un concepto griego. En español, el protocolo es un conjunto de reglas o instrucciones a seguir, fijadas por la ley o la tradición. Estas conductas o reglas pueden incluir modos de vestirse, buenos modales o incluso actitudes. 
+                    p.mb-0
+                      b(style="font-size: 18px;") El protocolo funerario para la atención del cliente del servicio exequial inicia desde el momento del primer contacto con la familia para la atención del servicio hasta terminado el servicio funerario. Durante toda la vida y como un ciclo normal de esta, el fallecimiento de un ser querido, un amigo, familiar o conocido toca a nuestras puertas, por ello se establecen unas normas de comportamiento básico para asistir a los sepelios, porque estos también son un evento social; pero ¿qué es protocolo? La palabra protocolo proviene del latín 
+                      b(style="font-size: 18px;") #[em protocollum]
+                      b(style="font-size: 18px;") , el cual deriva de un concepto griego. En español, el protocolo es un conjunto de reglas o instrucciones a seguir, fijadas por la ley o la tradición. Estas conductas o reglas pueden incluir modos de vestirse, buenos modales o incluso actitudes. 
                     i.fas.fa-quote-right(style='font-size: 28px')
                   
             .row.justify-content-center
               p.mb-0
                 b(style="color: #008F85;") Por parte del personal funerario que está atendiendo el servicio 
-                b-none se debe de prestar especial atención y escuchar las solicitudes del familiar encargado de servicio para conocer sus necesidades puntuales sobre la forma de acondicionar el cuerpo, el ataúd deseado, sus creencias, tipo y duración de velación, si desean inhumación o cremación, entre otros. 
+                b-none debe de prestar especial atención y escuchar las solicitudes del familiar encargado del servicio para conocer sus necesidades puntuales sobre la forma de acondicionar el cuerpo, el ataúd deseado, sus creencias, tipo y duración de velación, si desean inhumación o cremación, entre otros. 
                 b(style="color: #D93328;")  Al determinar las necesidades del cliente 
                 b-none  se procede a programar el servicio, detallando horarios del desarrollo paso a paso, para esto se necesitará que 
                 b el coordinador de servicios notifique al personal necesario para la realización del ritual de despedida, recalcando que estos siempre deben actuar de forma discreta, pero con etiqueta y estar disponibles para la atención del cliente si este llegase a necesitar algo. 
@@ -200,7 +203,7 @@
               b el personal encargado de los 
               b(style="color: #B42218;") servicios funerarios 
               b debe estar basada en un trato amable, correcto, digno, empático y respetuoso: 
-              b-none ya que el personal funerario sabe por el momento desagradable y quizás desconocido porque está atravesando la familia o seres queridos. 
+              b-none ya que el personal funerario sabe por el momento desagradable y quizás desconocido por el que está atravesando la familia o seres queridos. 
               b(style="color: #008F85;")  Por lo anterior se recomienda:
               
     
@@ -214,12 +217,12 @@
         
           .col-md-5.align-self-center
             .cajon-b.color-primario.p-3
-              p.mb-0 Acoger a los dolientes, normalmente cuando se acercan a la funeraria con el fin de preparar y arreglar todos los trámites necesarios, la familia se encuentra desorientada y desconcertados, por ello una de las primeras cosas que va a necesitar es el apoyo, atención, información y comprensión con el fin de saber qué está pasando, cómo deben actuar y que deben de hacer. Por ellos el personal de servicio al cliente que está atendiendo el servicio deberá ofrecer un trato con calidez, paciencia, empatía y eficacia, como así mismo responder a todas las preguntas y necesidades que se presenten. Idealmente que se encuentren en un lugar acogedor, tranquilo e íntimo con el fin de ofrecerles un espacio donde se puedan sentir libres de llorar o expresar sus sentimientos. 
+              p.mb-0 Acoger a los dolientes, normalmente cuando se acercan a la funeraria con el fin de preparar y arreglar todos los trámites necesarios, la familia se encuentra desorientada y desconcertada, por ello una de las primeras cosas que va a necesitar es el apoyo, atención, información y comprensión, con el fin de saber qué está pasando, cómo deben actuar y qué deben hacer. Por ello el personal de servicio al cliente que está atendiendo el servicio deberá ofrecer un trato con calidez, paciencia, empatía y eficacia, como así mismo responder a todas las preguntas y necesidades que se presenten. Idealmente que se encuentren en un lugar acogedor, tranquilo e íntimo con el fin de ofrecerles un espacio donde se puedan sentir libres de llorar o expresar sus sentimientos. 
             
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.align-self-center
             .cajon-b.abajo-derecha.color-primario.p-3
-              p.mb-0 Diferenciar entre el responsable del servicio, allegados y visitantes, ya que no se debe de olvidar la ley de protección de datos, y en este campo funerario se disponen de unos datos confidenciales que aunque los familiares quieran conocer (causa de muerte, valor del entierro, entre otras) no podrán ser aclarados por el personal de la funeraria y solo serán conocidos por el responsable del servicio, por ellos se debe de direccionar a estas personas hacia el responsable para que él o ella sea libre de responder lo que crea conveniente.
+              p.mb-0 Diferenciar entre el responsable del servicio, allegados y visitantes, ya que no se debe de olvidar la ley de protección de datos, y en este campo funerario se disponen de unos datos confidenciales que aunque los familiares quieran conocer (causa de muerte, valor del entierro, entre otras) no podrán ser aclarados por el personal de la funeraria y solo serán conocidos por el responsable del servicio, por ello debe de direccionar a estas personas hacia el responsable para que él o ella sea libre de responder lo que crea conveniente.
             
               
           .col-7.col-md-5.align-self-center
@@ -245,7 +248,7 @@
       b “el duelo es un proceso y no un estado”, 
       b-none  e implica tareas de elaboración de la pérdida que 
       b  “requieren esfuerzo” 
-      b-none (p.27) A partir de esto se han creado una 
+      b-none (p. 27). A partir de esto se han creado una 
       b serie de pasos o 
       b(style="color: #B42218;") “tareas del duelo” 
       b que deben ser tenidos en cuenta al momento de asesorar y guiar a los dolientes en el proceso de aceptación de la pérdida, 
@@ -265,7 +268,7 @@
                     .tarjeta
                       .p-4
                         h4 Potenciar el sentido de la realidad 
-                        p.mb-0 Para iniciar el proceso de venta se hace preciso la investigación previa del público al que se desea llegar, identificando a los leads o clientes potenciales   a partir de su condición de compra, el tipo de usuario, necesidades a satisfacer. Luego, se puede con la definición de las estrategias de ventas. 
+                        p.mb-0 Es importante que el doliente entienda que está viviendo una situación real que es irreversible. Se recomienda que la persona hable acerca de su pérdida y el fallecimiento para que integre esta información y la conciba como propia y tangible.
               .row
                 .col-md-12.mb-md-0
                   .tarjeta-avatar-b.mb-0
@@ -291,7 +294,7 @@
                     .tarjeta
                       .p-4.text-start
                         h4 Orientar para aprender a vivir sin el fallecido
-                        p.mb-0 Es importante hacerle ver a los dolientes que, aunque su ser querido ya no se encuentra físicamente con ellos aun cuentan con la capacidad para tomar decisiones y seguir adelante como personas independientes. 
+                        p.mb-0 Es importante hacerle ver a los dolientes que, aunque su ser querido ya no se encuentra físicamente con ellos aún cuentan con la capacidad para tomar decisiones y seguir adelante como personas independientes. 
                     .tarjeta-avatar-b__img(style='')
                       img.mx-auto(src='@/assets/curso/tema1/img18.svg' alt='imagen ambiental' style='width: 100px;')
                     
@@ -331,17 +334,17 @@
               b(style="color: #008F85;") el protocolo funerario para los asistentes a un funeral, 
               b-none  recordemos que 
               b  los funerales proporcionan a la familia y allegados la oportunidad de expresar su aprecio, 
-              b-none amor y dolor hacia el fallecido y que este rito ayuda a los deudos a afrontar la pérdida y ofrecer una despedida digna.
-              b-none <i>Lo recomendable es que solo las personas que sintieran realmente están perdidas o quieran acompañar a los deudos asistan al funeral y si no puedes ir se acostumbra el envío de flores, ya que es considerada tradicionalmente como una forma de expresar condolencias en la religión católica, se hace mención a esta ya que esta región predominante en el país. </i>
+              b-none amor y dolor hacia el fallecido y que este rito ayuda a los deudos a afrontar la pérdida y ofrecer una despedida digna. 
+              b-none Lo recomendable es que solo las personas que sientan realmente esta perdida o quieran acompañar a los deudos asistan al funeral y si no pueden ir se acostumbra el envío de flores, ya que es considerada tradicionalmente como una forma de expresar condolencias en la religión católica, se hace mención a esta ya que es la región predominante en el país. 
               
             .cajon.color-secundario.p-4
               p.mb-0 Todo lo anterior nos lleva a preguntarnos, 
-                b(style="color: #B42218;")  ¿Cómo dar el pésame? 
+                b(style="color: #B42218;")  ¿cómo dar el pésame? 
                 b-none  Este puede ser uno de los momentos más difíciles para la familia en el servicio funerario, y resulta complicado verbalizar los sentimientos de tristeza, compasión, dolor y apoyo a los deudos. 
                 b  El pésame se puede dar de forma física, por llamada, mensaje de texto o una nota. 
-                b-none Si hay cercanía entre el o los deudos y la persona asistente al funeral 
+                b-none Si hay cercanía entre el o los deudos y la persona asistente al funeral, 
                 b(style="color: #008F85;")  se recomienda un abrazo sincero y con sentido, acompañado de frases que den consuelo a los familiares del fallecido, como, por ejemplo: 
-                b-none <i>aspectos positivos de la persona, algo que hizo por nosotros, lo amado-querido que fue; al fin son detalles íntimos que reconfortan un poco a los deudos.</i>
+                b-none aspectos positivos de la persona, algo que hizo por nosotros, lo amado/querido que fue; al fin son detalles íntimos que reconfortan un poco a los deudos.
           
         .row.mb-5
           p.mb-4 Pero si el 
@@ -404,12 +407,12 @@
             .col-sm.col-md.mb-4.mb-lg-0
               .texto-llamado
                 h3.mb-3(style="color: #008F85;") Conducta en los velorios por Julio Cortázar
-                p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede se sugiere la lectura del texto.
+                p.mb-0 Estimado aprendiz, para profundizar sobre el tema se sugiere la lectura del texto.
             .col-6.col-sm-auto.align-self-center
               .d-flex.justify-content-center
                 .boton-llamado.mx-auto
                   a.boton.color-secundario.texto-blanco(href="https://ciudadseva.com/texto/conducta-en-los-velorios/" target="_blank")
-                    span Ver mas
+                    span Ver más
 
     
 

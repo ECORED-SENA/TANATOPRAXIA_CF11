@@ -24,7 +24,7 @@
         .cajon.color-secundario.p-4
           p.mb-0 Existe una serie de requisitos que se deben conservar y realizar para 
             b(style="color: #D93328;") preservar la autenticidad y capacidad probatoria, 
-            b-none ¿cuáles son?
+            b-none ¿cuáles son? 
             b Identifica en el siguiente recurso educativo cada uno de ellos.
 
 

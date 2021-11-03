@@ -60,7 +60,7 @@
             .col-6.col-sm-auto.align-self-center
               .boton-llamado
                 a.boton.color-secundario.texto-blanco(href="https://www.youtube.com/watch?v=j3PQ0xJ6V4g&t=53s" target="_blank")
-                  span Ver Video
+                  span Ver video
 
 
     p.mb-5 Los principios que rigen la etiqueta empresarial son: 
@@ -179,7 +179,7 @@
             .row.justify-content-center
               p.mb-0
                 b(style="color: #008F85;") Por parte del personal funerario que está atendiendo el servicio 
-                b-none debe de prestar especial atención y escuchar las solicitudes del familiar encargado del servicio para conocer sus necesidades puntuales sobre la forma de acondicionar el cuerpo, el ataúd deseado, sus creencias, tipo y duración de velación, si desean inhumación o cremación, entre otros. 
+                b-none se debe prestar especial atención y escuchar las solicitudes del familiar encargado del servicio para conocer sus necesidades puntuales sobre la forma de acondicionar el cuerpo, el ataúd deseado, sus creencias, tipo y duración de velación, si desean inhumación o cremación, entre otros. 
                 b(style="color: #D93328;")  Al determinar las necesidades del cliente 
                 b-none  se procede a programar el servicio, detallando horarios del desarrollo paso a paso, para esto se necesitará que 
                 b el coordinador de servicios notifique al personal necesario para la realización del ritual de despedida, recalcando que estos siempre deben actuar de forma discreta, pero con etiqueta y estar disponibles para la atención del cliente si este llegase a necesitar algo. 
@@ -222,7 +222,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0.align-self-center
             .cajon-b.abajo-derecha.color-primario.p-3
-              p.mb-0 Diferenciar entre el responsable del servicio, allegados y visitantes, ya que no se debe de olvidar la ley de protección de datos, y en este campo funerario se disponen de unos datos confidenciales que aunque los familiares quieran conocer (causa de muerte, valor del entierro, entre otras) no podrán ser aclarados por el personal de la funeraria y solo serán conocidos por el responsable del servicio, por ello debe de direccionar a estas personas hacia el responsable para que él o ella sea libre de responder lo que crea conveniente.
+              p.mb-0 Diferenciar entre el responsable del servicio, allegados y visitantes, ya que no se debe de olvidar la ley de protección de datos, y en este campo funerario se disponen de unos datos confidenciales que aunque los familiares quieran conocer (causa de muerte, valor del entierro, entre otras) no podrán ser aclarados por el personal de la funeraria y solo serán conocidos por el responsable del servicio, por ello se debe direccionar a estas personas hacia el responsable para que él o ella sea libre de responder lo que crea conveniente.
             
               
           .col-7.col-md-5.align-self-center
@@ -335,7 +335,7 @@
               b-none  recordemos que 
               b  los funerales proporcionan a la familia y allegados la oportunidad de expresar su aprecio, 
               b-none amor y dolor hacia el fallecido y que este rito ayuda a los deudos a afrontar la pérdida y ofrecer una despedida digna. 
-              b-none Lo recomendable es que solo las personas que sientan realmente esta perdida o quieran acompañar a los deudos asistan al funeral y si no pueden ir se acostumbra el envío de flores, ya que es considerada tradicionalmente como una forma de expresar condolencias en la religión católica, se hace mención a esta ya que es la región predominante en el país. 
+              b-none Lo recomendable es que solo las personas que sientan realmente esta pérdida o quieran acompañar a los deudos asistan al funeral y si no pueden ir se acostumbra el envío de flores, ya que es considerada tradicionalmente como una forma de expresar condolencias en la religión católica, se hace mención a esta ya que es la religión predominante en el país. 
               
             .cajon.color-secundario.p-4
               p.mb-0 Todo lo anterior nos lleva a preguntarnos, 

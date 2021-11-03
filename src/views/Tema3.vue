@@ -19,13 +19,13 @@
           b-none  definen la cadena de custodia como 
           b el conjunto de procedimientos encaminados a asegurar y demostrar la autenticidad de los elementos materiales probatorios y evidencia física. 
           
-        p.mb-4 Este procedimiento es organizado y continuo en el que el servidor público o privado debe garantizar la correcta manipulación de los elementos probatorios. Es un deber de este servidos informar a quienes compete el cuándo, cómo y 
+        p.mb-4 Este procedimiento es organizado y continuo en el que el servidor público o privado debe garantizar la correcta manipulación de los elementos probatorios. Es un deber de este servidor informar a quienes compete el cuándo, cómo y 
           b(style="color: #008F85;")  quiénes tuvieron acercamiento o relación material que está en custodia. 
         .cajon.color-secundario.p-4
           p.mb-0 Existe una serie de requisitos que se deben conservar y realizar para 
             b(style="color: #D93328;") preservar la autenticidad y capacidad probatoria, 
             b-none ¿cuáles son?
-            b  En el siguiente recurso educativo se identifican cada uno de ellos.
+            b Identifica en el siguiente recurso educativo cada uno de ellos.
 
 
     .row.justify-content-center.fondo-gradiente.mb-4(style='background: linear-gradient(180deg,#ffffff,#71C6C1,#008F85, #ffffff);')
@@ -45,7 +45,7 @@
               p(numero="1" titulo="Autenticidad") Es la correspondencia entre el elemento material probatorio recolectado, embalado, transportado y almacenado que es analizado para determinar su capacidad probatoria del hecho punible. Es importante su custodia para evitar alguna alteración de los procesos de investigación e investigación  científica que se pueden derivar de esta situación. 
               p(numero="2" titulo="Almacenamiento") Es la aplicación de instrumentos administrativos para resguardar los elementos materiales probatorios, con el fin de evitar su pérdida o daño. Es necesario que cada organización identifique y disponga de un espacio físico para mantener en óptimas condiciones los elementos. De estos puede extraerse evidencias que den explicaciones a posibles hipótesis de los procesos legales o científicos. 
               p(numero="3" titulo="Capacidad demostrativa") Cualidad de un elemento material probatorio que mediante diferentes análisis (técnico o científico), puede aportar información con capacidad probatoria. Cabe mencionar que estos pueden perder su capacidad probatoria por: 1. Por su naturaleza con el paso del tiempo y 2. Por análisis técnicos o científicos cuando sobre el mismo elemento no procede un mismo reanálisis.
-              p(numero="4" titulo="Continuidad") La forma cronológica ininterrumpida en la cadena de custodia de los elementos materiales probatorios,es permitir realizar una trazabilidad de los diferentes actores que intervinieron en las diversas etapas del sistema de cadena de custodia. 
+              p(numero="4" titulo="Continuidad") La forma cronológica ininterrumpida en la cadena de custodia de los elementos materiales probatorios, cuyo fin primordial es permitir realizar una trazabilidad de los diferentes actores que intervinieron en las diversas etapas del sistema de cadena de custodia. 
               p(numero="5" titulo="Identidad") Es una descripción detallada de los elementos materiales probatorios recolectados, embalados, almacenados o transportados que registre su estado físico, locación y apariencia. Se debe pensar esta acción como una individualización de los elementos.
               p(numero="6" titulo="Integridad") Consiste en garantizar que los elementos materiales probatorios no han sufrido ninguna alteración en su composición desde el momento del hallazgo, recolección y embalaje. Aunque existe una excepción: modificaciones por su naturaleza o con ocasión de la práctica de los diferentes análisis técnicos o científicos.
               p(numero="7" titulo="Preservación") Es la aplicación de técnicas para evitar el daño o contaminación del elemento material probatorio. Para asegurar la preservación se debe garantizar que los elementos sean custodiados en unas condiciones adecuadas de acuerdo a su clase y naturaleza a fin de asegurar su conservación e inalterabilidad.

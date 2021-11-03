@@ -17,7 +17,7 @@
           .col-lg-8
             p.mb-4
               b El duelo y los sentimientos 
-              b-none que se asocian a este factores que se deben tener en cuenta en el momento de la 
+              b-none que se asocian a este son factores que se deben tener en cuenta en el momento de la 
               b(style="color: #008F85;")  prestación del servicio funerario, 
               b-none aunque 
               b  los trabajadores funerarios no sean los especialistas en el manejo del duelo sí se debe conocer sus manifestaciones básicas para brindar y otorgar la ayuda necesaria al cliente. 
@@ -27,7 +27,7 @@
               
         .row.justify-content-center.mb-5
           .cajon.color-secundario.p-4
-            p.mb-0  <i>Lo define como la respuesta psicológica -sentimiento y pensamiento- que se presenta ante la pérdida de un ser querido. </i>
+            p.mb-0  Lo define como la respuesta psicológica -sentimiento y pensamiento- que se presenta ante la pérdida de un ser querido. 
               b(style="color: #008F85;") Esta respuesta puede ser subjetiva y depende del sistema mental y emocional de quien lo vive. 
               b  Las creencias que tenga quien lo sufre modifica su expresión y desarrollo, haciéndolo más manejable o complejo de tratar en algunos casos. 
               b-none Algunos estados que pueden padecer los deudos ante el descenso de un cuerpo son: 
@@ -148,14 +148,14 @@
                 .tarjeta
                   .p-4
                     h4 Muerte de un hijo
-                    p.mb-0 Se considera entre las muertes más difícil de superar, el dolor de estas muertes puede tardar años en superarse y el sentimiento de culpa es mayor que en otros casos, ya que los padres sienten que han fallado en su rol de cuidador-protector.
+                    p.mb-0 Se considera entre las muertes más difíciles de superar, el dolor de estas muertes puede tardar años en superarse y el sentimiento de culpa es mayor que en otros casos, ya que los padres sienten que han fallado en su rol de cuidador-protector.
           .row
             .col-md-12.mb-md-0
               .tarjeta-avatar-b.mb-0
                 .tarjeta
                   .p-4.text-start
                     h4 Muerte de un progenitor
-                    p.mb-0 El dolor de esta muerte también suele ser profundo dependiendo de la edad del progenitor y el tipo de relación que se tenía con el ser querido, entre mayor apego mayor dolor. El hijo (a) tendrá sentimientos de desolación y desamparo.
+                    p.mb-0 El dolor de esta muerte también suele ser profundo dependiendo de la edad del progenitor y el tipo de relación que se tenía con el ser querido, entre mayor apego mayor dolor. El hijo(a) tendrá sentimientos de desolación y desamparo.
                 .tarjeta-avatar-b__img(style='')
                   img.mx-auto(src='@/assets/curso/tema2/imgN6.svg' alt='imagen ambiental' style='width: 90px;')
                     
@@ -167,7 +167,7 @@
                 .tarjeta
                   .p-4
                     h4 Muertes múltiples
-                    p.mb-0 Este tipo de muertes son por sí mismas más difíciles de superar ya que no es solo un miembro de la familia quien ha fallecido, son más y probablemente el círculo de personas que pudiesen apoyar el proceso de duelo por ello en este tipo de muertes los sobrevivientes tienen sentimientos de irrealidad total, incredulidad, angustia y desespero. Normalmente el estado inicial de shock es más profundo y toma más tiempo salir de este.
+                    p.mb-0 Este tipo de muertes son por sí mismas más difíciles de superar ya que no es solo un miembro de la familia quien ha fallecido, son más y probablemente del círculo de personas que pudiesen apoyar el proceso de duelo. Por ello en este tipo de muertes los sobrevivientes tienen sentimientos de irrealidad total, incredulidad, angustia y desespero. Normalmente el estado inicial de <em>shock</em> es más profundo y toma más tiempo salir de este.
                     
                     
     .row.justify-content-center.fondo4.mb-5
@@ -240,7 +240,7 @@
           .col-lg-7.mb-4.mb-lg-0
             p.mb-4 La manifestación externa del duelo es el luto, entonces 
               b(style="color: #D93328;") ¿qué es luto?  
-              b-none  El luto es la manera que los seres humanos para representar, a nivel de su ropa y accesorios a la muerte de un ser querido. Esta demostración externaliza la pena y el duelo.
+              b-none  El luto es la manera que los seres humanos para representar, a nivel de su ropa y accesorios a la muerte de un ser querido. Esta demostración externaliza la pena y el duelo. 
               b El luto también se encuentra asociado al comportamiento, a los tiempos de duelo, y a la forma de vestirse socialmente. 
                 
             .cajon.color-secundario.p-4
@@ -290,7 +290,7 @@
 
 
     p.mb-4 A continuación, encontrarás diferentes definiciones sobre 
-      b ¿Qué es un ritual?
+      b ¿qué es un ritual?
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -541,7 +541,7 @@
                     
                 li 
                   i.fas.fa-play(style='color: #008F85')
-                  p.mb-0 Nunca se debe dejar el cuerpo solo hasta el momento del entierro, quien custodia el cuerpo es llamado <em>Shomerim</em> o Guardián y no deberán de ingerir alimentos o agua en presencia del fallecido, ya que se considera una falta de respeto grave. 
+                  p.mb-0 Nunca se debe dejar el cuerpo solo hasta el momento del entierro, quien custodia el cuerpo es llamado <em>Shomerim</em> o Guardián y no deberán ingerir alimentos o agua en presencia del fallecido, ya que se considera una falta de respeto grave. 
                     
                 li 
                   i.fas.fa-play(style='color: #008F85')

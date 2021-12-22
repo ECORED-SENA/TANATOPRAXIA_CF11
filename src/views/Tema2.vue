@@ -394,7 +394,7 @@
             .col-md-8
               p.mb-4
                 b Creencia: 
-                b-none  la religión católica dicta que la muertes es un viaje que emprende el alma del fallecido hacia el cielo, si llevó una vida libre de pecado; al purgatorio si cometió algunos pecados que no fuesen graves y al infierno si llevó una vida por fuera de los mandatos de la Ley de Dios.
+                b-none  la religión católica dicta que la muerte es un viaje que emprende el alma del fallecido hacia el cielo, si llevó una vida libre de pecado; al purgatorio si cometió algunos pecados que no fuesen graves y al infierno si llevó una vida por fuera de los mandatos de la Ley de Dios.
               
               p.mb-4
                 b Ritual: 
@@ -445,7 +445,7 @@
                 b-none  luego del fallecimiento se procede a cerrar los ojos, la boca y se enderezan los brazos. Posteriormente se pone una lámpara a base de aceite cerca del cuerpo y se deja encendida por tres días consecutivos, y tratar de evitar el contacto con el fallecido lo más posible, se baña y se viste de color blanco.  Si la mujer es casada se vestirá con un vestido de novia rojo, si es soltera será una vestimenta amarilla o roja y si es viuda, será de color blanco o pálido. 
               
           .row.justify-content-center.mb-5
-            p.mb-0 El cuerpo se podrá adornar con joyas y flores, y puesto en una especie de camilla, siempre el cuerpo debe apuntar hacia el sur, es llevado en hombros de los familiares hacia el <em>Shmashana</em> donde se realizará la cremación. Las joyas deberán retirarse y una vez el fuego consume todo el cuerpo los asistentes se podrán retirar. Al 2do o 3er día se podrán retirar las cenizas y se pondrán en una urna para ser lanzadas al río. Los asistentes al funeral deberán estar vestidos de color blanco, el negro no esta permitido.
+            p.mb-0 El cuerpo se podrá adornar con joyas y flores, y puesto en una especie de camilla, siempre el cuerpo debe apuntar hacia el sur, es llevado en hombros de los familiares hacia el <em>Shmashana</em> donde se realizará la cremación. Las joyas deberán retirarse y una vez el fuego consume todo el cuerpo los asistentes se podrán retirar. Al 2do o 3er día se podrán retirar las cenizas y se pondrán en una urna para ser lanzadas al río. Los asistentes al funeral deberán estar vestidos de color blanco, el negro no está permitido.
             
           .row.justify-content-center.mb-4
             h4.mb-4 Ritual de luto
@@ -530,7 +530,7 @@
               ul.lista-ul.ps-lg-4
                 li 
                   i.fas.fa-play(style='color: #008F85')
-                  p.mb-0 Posteriormente se debe lavar el cuerpo en señal de purificación, si es hombre deberá ser bañado por hombre y los mismo para el caso de las mujeres. No posicionar el cuerpo boca abajo, luego se vestirá con una túnica de lino llamada <em>Takhrikhim</em>.
+                  p.mb-0 Posteriormente se debe lavar el cuerpo en señal de purificación, si es hombre deberá ser bañado por hombre y lo mismo para el caso de las mujeres. No posicionar el cuerpo boca abajo, luego se vestirá con una túnica de lino llamada <em>Takhrikhim</em>.
                 
           .row.justify-content-center
             .col-lg-11

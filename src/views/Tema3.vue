@@ -20,7 +20,7 @@
           b el conjunto de procedimientos encaminados a asegurar y demostrar la autenticidad de los elementos materiales probatorios y evidencia física. 
           
         p.mb-4 Este procedimiento es organizado y continuo en el que el servidor público o privado debe garantizar la correcta manipulación de los elementos probatorios. Es un deber de este servidor informar a quienes compete el cuándo, cómo y 
-          b(style="color: #008F85;")  quiénes tuvieron acercamiento o relación material que está en custodia. 
+          b(style="color: #008F85;") quiénes tuvieron acercamiento o relación material con los elementos en custodia.
         .cajon.color-secundario.p-4
           p.mb-0 Existe una serie de requisitos que se deben conservar y realizar para 
             b(style="color: #D93328;") preservar la autenticidad y capacidad probatoria, 
@@ -133,7 +133,7 @@
             .col-sm.mb-4.mb-lg-0
               .texto-llamado
                 //h4.mb-3(style="color: #008F85;") Rituales funerarios
-                p.mb-4 Hasta aquí se ha hecho una aproximación a la cadena de custodia. En el contexto colombiano existen diferentes que explican el proceso a seguir en la cadena de custodia. Con la intención que usted desarrolle conocimiento para que explique elementos que debe considerar cuando entra en contacto con elementos probatorios le invitamos a leer el texto “Manual del Sistema de Cadena de Custodia” (2018). 
+                p.mb-4 Hasta aquí se ha hecho una aproximación a la cadena de custodia. En el contexto colombiano existen diferentes documentos que explican el proceso a seguir en la cadena de custodia. Con la intención de que usted desarrolle conocimiento para que explique elementos que debe considerar cuando entra en contacto con elementos probatorios le invitamos a leer el texto “Manual del Sistema de Cadena de Custodia” (2018). 
                 p.mb-0 Usted debe revisar las páginas 10, 11, y 15. 
             .col-auto.col-sm-auto.align-self-center
               .boton-llamado
